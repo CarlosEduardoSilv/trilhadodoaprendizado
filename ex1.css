@@ -1,0 +1,41 @@
+body
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 30;
+    margin-right: 50;
+    margin-bottom: 30;
+    margin-left: 60;
+    border: solid;
+    border-width: 1px ;
+    border-color: gray;
+    padding: 20;
+}
+p
+{
+ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ color: blue;
+ background-color: chartreuse;
+ border-style:dashed;
+ border-width: 2px;
+ border-color: red;
+ padding-top: 10;
+ padding-right: 20;
+ padding-bottom: 30;
+ padding-left: 15;
+}
+div
+{
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+ color: bisque;
+ background-color: aqua;
+ border-style: dashed;
+ border-width: 2px;
+ border-color: red;
+ padding-top: 20;
+ padding-right: 30;
+ padding-bottom: 20;
+ padding-left: 30;
+ margin: 30px;
+ height:100 ;
+ width:500 ;
+}
